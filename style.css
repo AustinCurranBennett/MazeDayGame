@@ -1,0 +1,42 @@
+img.smaller-image {
+	width: 150px;
+}
+
+h1 {
+	font-family: monospace;
+	text-align: center;
+}
+
+mark.title {
+	font-size: 50px;
+	font-variant: small-caps;
+	font-size-adjust: 1;
+	background: none;
+}
+
+h2 {
+	font-family: monospace;
+	text-align: center;
+}
+
+mark.question {
+	font-size: 30px;
+	background: none;
+}
+
+h3 {
+	color: white;
+	text-align: center;
+}
+
+
+/*
+images {
+	white-space: nowrap;
+}
+button {
+	margin: 0 auto;
+}
+*/
+
+
